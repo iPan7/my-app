@@ -94,7 +94,7 @@ Address to allow: <input type="text" name="kycAddress" value={this.state.kycAddr
         <button type="button" onClick={this.handleBuyToken}>Buy a token</button>
         <h2>Step 3: See your Salt Coin Balance below!</h2>
         <p>You have {this.state.userTokens} Salt Coins</p>
-
+      <div>This is a test update.</div>
       </div>
     );
   }
